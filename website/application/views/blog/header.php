@@ -216,7 +216,7 @@
     <script src="<?= base_url()?>resource/js/jquery.min.js"></script>
     <script src="<?= base_url()?>resource/js/bootstrap.min.js"></script>
     
-	<!--123dddd-->
+	<!--123ddd-->
 	<script src="<?= base_url()?>resource/js/MY_main.js"></script>
 	
 	
